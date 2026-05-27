@@ -1,0 +1,219 @@
+{
+  "products": {
+    "p1": [
+      "products/p1.jpg",
+      "products/p1b.jpg",
+      "products/p1c.jpg",
+      "products/p1d.jpg"
+    ],
+    "p2": [
+      "products/p2.jpg",
+      "products/p2b.jpg",
+      "products/p2c.jpg",
+      "products/p2d.jpg"
+    ],
+    "p3": [
+      "products/p3.jpg",
+      "products/p3b.jpg",
+      "products/p3c.jpg",
+      "products/p3d.jpg"
+    ],
+    "p4": [
+      "products/p4.jpg",
+      "products/p4b.jpg",
+      "products/p4c.jpg",
+      "products/p4d.jpg"
+    ],
+    "p5": [
+      "products/p5.jpg",
+      "products/p5b.jpg",
+      "products/p5c.jpg",
+      "products/p5d.jpg"
+    ],
+    "p6": [
+      "products/p6.jpg",
+      "products/p6b.jpg",
+      "products/p6c.jpg",
+      "products/p6d.jpg"
+    ],
+    "p7": [
+      "products/p7.jpg",
+      "products/p7b.jpg",
+      "products/p7c.jpg",
+      "products/p7d.jpg"
+    ],
+    "p8": [
+      "products/p8.jpg",
+      "products/p8b.jpg",
+      "products/p8c.jpg",
+      "products/p8d.jpg"
+    ],
+    "p9": [
+      "products/p9.jpg",
+      "products/p9b.jpg",
+      "products/p9c.jpg",
+      "products/p9d.jpg"
+    ],
+    "p10": [
+      "products/p10.jpg",
+      "products/p10b.jpg",
+      "products/p10c.jpg",
+      "products/p10d.jpg"
+    ],
+    "p11": [
+      "products/p11.jpg",
+      "products/p11b.jpg",
+      "products/p11c.jpg",
+      "products/p11d.jpg"
+    ],
+    "p12": [
+      "products/p12.jpg",
+      "products/p12b.jpg",
+      "products/p12c.jpg",
+      "products/p12d.jpg"
+    ],
+    "p13": [
+      "products/p13.jpg",
+      "products/p13b.jpg",
+      "products/p13c.jpg",
+      "products/p13d.jpg"
+    ],
+    "p14": [
+      "products/p14.jpg",
+      "products/p14b.jpg",
+      "products/p14c.jpg",
+      "products/p14d.jpg"
+    ],
+    "p15": [
+      "products/p15.jpg",
+      "products/p15b.jpg",
+      "products/p15c.jpg",
+      "products/p15d.jpg"
+    ],
+    "p16": [
+      "products/p16.jpg",
+      "products/p16b.jpg",
+      "products/p16c.jpg",
+      "products/p16d.jpg"
+    ],
+    "p17": [
+      "products/p17.jpg",
+      "products/p17b.jpg",
+      "products/p17c.jpg",
+      "products/p17d.jpg"
+    ],
+    "p18": [
+      "products/p18.jpg",
+      "products/p18b.jpg",
+      "products/p18c.jpg",
+      "products/p18d.jpg"
+    ],
+    "p19": [
+      "products/p19.jpg",
+      "products/p19b.jpg",
+      "products/p19c.jpg",
+      "products/p19d.jpg"
+    ],
+    "p20": [
+      "products/p20.jpg",
+      "products/p20b.jpg",
+      "products/p20c.jpg",
+      "products/p20d.jpg"
+    ],
+    "p21": [
+      "products/p21.jpg",
+      "products/p21b.jpg",
+      "products/p21c.jpg",
+      "products/p21d.jpg"
+    ],
+    "p22": [
+      "products/p22.jpg",
+      "products/p22b.jpg",
+      "products/p22c.jpg",
+      "products/p22d.jpg"
+    ],
+    "p23": [
+      "products/p23.jpg",
+      "products/p23b.jpg",
+      "products/p23c.jpg",
+      "products/p23d.jpg"
+    ],
+    "p24": [
+      "products/p24.jpg",
+      "products/p24b.jpg",
+      "products/p24c.jpg",
+      "products/p24d.jpg"
+    ]
+  },
+  "categories": {
+    "Denim": "cat/denim.jpg",
+    "Outerwear": "cat/outerwear.jpg",
+    "Knitwear": "cat/knitwear.jpg",
+    "Shirts": "cat/shirts.jpg",
+    "Tees": "cat/tees.jpg",
+    "Accessories": "cat/accessories.jpg"
+  },
+  "hero": [
+    "hero/hero_0.jpg",
+    "hero/hero_1.jpg",
+    "hero/hero_2.jpg",
+    "hero/hero_3.jpg",
+    "hero/hero_4.jpg",
+    "hero/hero_5.jpg",
+    "hero/hero_6.jpg",
+    "hero/hero_7.jpg",
+    "hero/hero_8.jpg",
+    "hero/hero_9.jpg",
+    "hero/hero_10.jpg",
+    "hero/hero_11.jpg",
+    "hero/hero_12.jpg",
+    "hero/hero_13.jpg"
+  ],
+  "pool": [
+    "pool/pool_0.jpg",
+    "pool/pool_1.jpg",
+    "pool/pool_2.jpg",
+    "pool/pool_3.jpg",
+    "pool/pool_4.jpg",
+    "pool/pool_5.jpg",
+    "pool/pool_6.jpg",
+    "pool/pool_7.jpg",
+    "pool/pool_8.jpg",
+    "pool/pool_9.jpg",
+    "pool/pool_10.jpg",
+    "pool/pool_11.jpg",
+    "pool/pool_12.jpg",
+    "pool/pool_13.jpg",
+    "pool/pool_14.jpg",
+    "pool/pool_15.jpg",
+    "pool/pool_16.jpg",
+    "pool/pool_17.jpg",
+    "pool/pool_18.jpg",
+    "pool/pool_19.jpg",
+    "pool/pool_20.jpg",
+    "pool/pool_21.jpg",
+    "pool/pool_22.jpg",
+    "pool/pool_23.jpg",
+    "pool/pool_24.jpg",
+    "pool/pool_25.jpg",
+    "pool/pool_26.jpg",
+    "pool/pool_27.jpg",
+    "pool/pool_28.jpg",
+    "pool/pool_29.jpg",
+    "pool/pool_30.jpg",
+    "pool/pool_31.jpg",
+    "pool/pool_32.jpg",
+    "pool/pool_33.jpg",
+    "pool/pool_34.jpg",
+    "pool/pool_35.jpg",
+    "pool/pool_36.jpg",
+    "pool/pool_37.jpg",
+    "pool/pool_38.jpg",
+    "pool/pool_39.jpg",
+    "pool/pool_40.jpg",
+    "pool/pool_41.jpg",
+    "pool/pool_42.jpg",
+    "pool/pool_43.jpg"
+  ],
+  "placeholder": "pool/pool_0.jpg"
+}
